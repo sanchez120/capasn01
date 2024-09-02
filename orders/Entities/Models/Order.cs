@@ -5,7 +5,11 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 //using Microsoft.EntityFrameworkCore;
 
+<<<<<<< HEAD
 namespace EntitiesAL.Models;
+=======
+namespace Entities.Models;
+>>>>>>> d17191366650dea143d501228ed0d4253f067612
 
 [Table("Order")]
 //[Index("CustomerId", Name = "IndexOrderCustomerId")]

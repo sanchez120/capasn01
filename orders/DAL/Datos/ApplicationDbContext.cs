@@ -1,6 +1,9 @@
 ﻿using Entities.Models;
+<<<<<<< HEAD
 using EntitiesAL.Models;
 using EntitiesL.Models;
+=======
+>>>>>>> d17191366650dea143d501228ed0d4253f067612
 using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Datos;

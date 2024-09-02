@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 ﻿using Entities.Models;
 using System;
+=======
+﻿using System;
+>>>>>>> d17191366650dea143d501228ed0d4253f067612
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 //using Microsoft.EntityFrameworkCore;
 
+<<<<<<< HEAD
 namespace EntitiesL.Models;
+=======
+namespace Entities.Models;
+>>>>>>> d17191366650dea143d501228ed0d4253f067612
 
 [Table("Product")]
 //[Index("ProductName", Name = "IndexProductName")]

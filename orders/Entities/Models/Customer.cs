@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿using EntitiesAL.Models;
+=======
+﻿using Entities.Models;
+>>>>>>> d17191366650dea143d501228ed0d4253f067612
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
